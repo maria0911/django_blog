@@ -28,7 +28,7 @@ SECRET_KEY = ')wy6#3=a+#%9$4imj)l%(yu2v-f*4+rl+=#al328u906$c^-vd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mariablog.herokuapp.com']
 
 
 # Application definition
