@@ -1,71 +1,89 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?eclipse-pydev version="1.0"?><pydev_project>
-                            
+                                
+    
     
     
     
     
     
     <pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
-                
+                        
+        
         <key>DJANGO_MANAGE_LOCATION</key>
-                
+                        
+        
         <value>manage.py</value>
-                
+                        
+        
         <key>DJANGO_SETTINGS_MODULE</key>
-                
+                        
+        
         <value>django_project.settings</value>
-                
+                        
+        
         <key>DB_PASS</key>
-                
+                        
+        
         <value>'1994Maria1109'</value>
-                
+                        
+        
         <key>DB_USER</key>
-                
+                        
+        
         <value>'maria.ugnich@gmail.com'</value>
-                
+                        
+        
         <key>PY</key>
-                
+                        
+        
         <value>39</value>
-            
+                    
+    
     </pydev_variables_property>
-                            
+                                
+    
     
     
     
     
     
     <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
-                                                        
+                                                                
+        
         
         
         
         
         
         <path>/${PROJECT_DIR_NAME}</path>
-                                                    
+                                                            
+    
     
     
     
     
     
     </pydev_pathproperty>
-                            
+                                
+    
     
     
     
     
     
     <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
-                            
+                                
+    
     
     
     
     
     
     <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
-                        
+                            
 
+    
     
     
     
@@ -76,8 +94,10 @@
         <path>/Users/maria/project/django_env/lib/python3.9/site-packages</path>
         <path>/Users/maria/project/django_env/lib/python3.9/site-packages/django_heroku</path>
         <path>/Users/maria/project/django_env/lib/python3.9/site-packages/django_heroku-0.3.1.dist-info</path>
+        <path>/Users/maria/project/django_env/lib/python3.9/site-packages/dj_database_url-0.5.0.dist-info</path>
     </pydev_pathproperty>
-                
+                    
+
 
 
 
